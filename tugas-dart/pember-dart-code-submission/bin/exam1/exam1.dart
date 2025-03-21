@@ -1,7 +1,7 @@
 dynamic studentInfo() {
   // TODO 1
 
-  var name = 'ariq ikbar hakim';
+  var name = 'Ariq Ikbar Hakim';
   var favNumber = '7';
   var isPraktikan = 'true';
 
